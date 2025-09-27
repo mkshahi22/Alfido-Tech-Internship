@@ -28,4 +28,4 @@ The project demonstrates a simple interactive **Hello World application** in mul
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mkshahi22/Alfido-Tech-Internship.git
+   git clone https://github.com/mkshahi22/Alfido-Tech-Internship/tree/main/task1
